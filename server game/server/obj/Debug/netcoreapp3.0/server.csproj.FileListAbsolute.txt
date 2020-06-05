@@ -1,0 +1,24 @@
+C:\Users\Egor\source\repos\server game\server\obj\Debug\netcoreapp3.0\server.csprojAssemblyReference.cache
+C:\Users\Egor\source\repos\server game\server\obj\Debug\netcoreapp3.0\server.AssemblyInfoInputs.cache
+C:\Users\Egor\source\repos\server game\server\obj\Debug\netcoreapp3.0\server.AssemblyInfo.cs
+C:\Users\Egor\source\repos\server game\server\bin\Debug\netcoreapp3.0\server.exe
+C:\Users\Egor\source\repos\server game\server\bin\Debug\netcoreapp3.0\server.deps.json
+C:\Users\Egor\source\repos\server game\server\bin\Debug\netcoreapp3.0\server.runtimeconfig.json
+C:\Users\Egor\source\repos\server game\server\bin\Debug\netcoreapp3.0\server.runtimeconfig.dev.json
+C:\Users\Egor\source\repos\server game\server\bin\Debug\netcoreapp3.0\server.dll
+C:\Users\Egor\source\repos\server game\server\bin\Debug\netcoreapp3.0\server.pdb
+C:\Users\Egor\source\repos\server game\server\obj\Debug\netcoreapp3.0\server.dll
+C:\Users\Egor\source\repos\server game\server\obj\Debug\netcoreapp3.0\server.pdb
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\bin\Debug\netcoreapp3.0\server.exe
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\bin\Debug\netcoreapp3.0\server.deps.json
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\bin\Debug\netcoreapp3.0\server.runtimeconfig.json
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\bin\Debug\netcoreapp3.0\server.runtimeconfig.dev.json
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\bin\Debug\netcoreapp3.0\server.dll
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\bin\Debug\netcoreapp3.0\server.pdb
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.csprojAssemblyReference.cache
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.AssemblyInfoInputs.cache
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.AssemblyInfo.cs
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.dll
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.pdb
+C:\Users\Alena\Desktop\Projekt systemy rozproszone\server game\server\obj\Debug\netcoreapp3.0\server.genruntimeconfig.cache
